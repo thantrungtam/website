@@ -24,9 +24,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 🌱 Learn Anything's Garden
-email: support@thinhvu.com
-author: LEarn Anything
+title: This is a blog about Cyber Security
+email: thantam311@gmail.com
+author: tritchimp
 
 # Copyright setting
 # You can use any html code, currently below placeholders are available:
@@ -40,7 +40,7 @@ author: LEarn Anything
 #   "Copyright (c) 2017-{currentYear} <a href="https://example.com">{author}</a>"
 #   "Copyright © 2017-2021 Foobar"
 #
-copyright: "2022-{currentYear} {author}"
+copyright: "2025-{currentYear} {author}"
 
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -162,15 +162,15 @@ header_pages:
   - categories.html
   - tags.html
   - archives.html
-  - title: Khóa học
+  - title: Blog
     url: https://learn-anything.vn/
   - about.html
 
 # Page default value
 defaults:
   home:
-    heading: "Learn Anything. Anytime. Anywhere."
-    subheading: "Ignite Curiosity. Learn Anything!"
+    heading: "This is a blog about Cyber Security."
+    subheading: "Data is most valuable asset in the digital word, and protecting it means safeguarding your future!"
     banner: "/assets/images/banners/photo_by_amanda-sandlin-unsplash.jpg"
 
 # Banner default settings
