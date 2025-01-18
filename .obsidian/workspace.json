@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "06ced8dee2250d29",
+        "id": "8d4355e5ebb42b15",
         "type": "tabs",
         "children": [
           {
-            "id": "44d88177dd45e27d",
+            "id": "a928c1094df5300c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2023-11-10-huong dan dung jekyll theme yat.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -39,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +54,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +64,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-11-10-huong dan dung jekyll theme yat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +96,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
@@ -102,10 +107,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-11-10-huong dan dung jekyll theme yat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           },
           {
@@ -116,7 +122,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -124,9 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_posts/2023-11-10-huong dan dung jekyll theme yat.md"
-              }
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           }
         ]
@@ -138,17 +146,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "44d88177dd45e27d",
+  "active": "a928c1094df5300c",
   "lastOpenFiles": [
+    "_posts/mau.md",
+    "_posts/2023-11-11-simple-template.md",
+    "_posts/2023-11-10-huong dan dung jekyll theme yat.md",
     "_posts/2023-06-08-Tạo blog phong cách tối giản với Github Pages và Jekyll.md",
     "_posts/2023-04-08-Thiết lập Digital Garden với Jekyll và Github Page.md",
     "_posts/2017-12-08-mermaid-example.md",
@@ -160,7 +171,6 @@
     "_posts/2023-11-17-cong-cu-giup-lap-trinh-tren-moi-thiet-bi-moi-luc-moi-noi.md",
     "_posts/2023-11-14-lua-chon-nen-tang-giai-phap-digital-garden-phu-hop.md",
     "_posts/2023-11-14-ben-kia-cau-vong.md",
-    "_posts/2023-11-10-huong dan dung jekyll theme yat.md",
     "_posts/2023-04-17-Storytelling.md",
     "_posts/Untitled.md",
     "_plugins/bidirectional_links_generator.rb",

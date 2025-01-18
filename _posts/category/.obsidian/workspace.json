@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "cd96c8bff47eef2b",
+    "type": "split",
+    "children": [
+      {
+        "id": "7962d05d7820ade5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a05e5b35841e90c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Community.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Community"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "836aa676a1d3842f",
+    "type": "split",
+    "children": [
+      {
+        "id": "00cef86cca54c08e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d941e176b874402",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7150805525308b4c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ffb866a476a55c8d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0e16ac2340e833c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "3bdb3a3c756dbb41",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e92f58f89d778c9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Community.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Community"
+            }
+          },
+          {
+            "id": "0e8d15a4f74d81a1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Community.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Community"
+            }
+          },
+          {
+            "id": "94a3e7c2f7284f61",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4ef86d988848c450",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Community.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Community"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a05e5b35841e90c6",
+  "lastOpenFiles": [
+    "Brand building.md"
+  ]
+}
