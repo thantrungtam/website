@@ -11,10 +11,10 @@
             "id": "a928c1094df5300c",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Tiêu",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,11 +69,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 602.5
+    "width": 200
   },
   "right": {
     "id": "804415cfd1e3e680",
@@ -136,13 +137,23 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "86ce87c9a4cb3d93",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,7 +168,17 @@
   },
   "active": "a928c1094df5300c",
   "lastOpenFiles": [
+    "_posts/test.md",
+    "_posts/Untitled.md",
+    "_posts/2025-01-19.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "_posts/2023-11-17-cong-cu-giup-lap-trinh-tren-moi-thiet-bi-moi-luc-moi-noi.md",
     "_posts/mau.md",
+    "_posts/category/Extended Family.md",
+    "_posts/2016-01-01-another-test-markdown.md",
+    "_posts/2023-04-17-Executive Presentation Guide.md",
+    "_posts/category/tets.md",
     "_posts/2023-11-11-simple-template.md",
     "_posts/2023-11-10-huong dan dung jekyll theme yat.md",
     "_posts/2023-06-08-Tạo blog phong cách tối giản với Github Pages và Jekyll.md",
@@ -166,13 +187,10 @@
     "_posts/2017-12-15-table-example.md",
     "_posts/2023-04-10-Stop Overthinking.md",
     "_posts/2023-04-16-The forgetting curve.md",
-    "_posts/2023-04-17-Executive Presentation Guide.md",
     "_posts/2023-05-22-The imperfectionists.md",
-    "_posts/2023-11-17-cong-cu-giup-lap-trinh-tren-moi-thiet-bi-moi-luc-moi-noi.md",
     "_posts/2023-11-14-lua-chon-nen-tang-giai-phap-digital-garden-phu-hop.md",
     "_posts/2023-11-14-ben-kia-cau-vong.md",
     "_posts/2023-04-17-Storytelling.md",
-    "_posts/Untitled.md",
     "_plugins/bidirectional_links_generator.rb",
     "_plugins",
     "New folder",
@@ -190,18 +208,12 @@
     "_posts/src/template/New Note.md",
     "_posts/src/template/Index Note.md",
     "_posts/src/template/Bullet Journal.md",
-    "_posts/src/template/Book Highlights.md",
     "_posts/src/unlayer-email-editor-export-html.jpg",
     "_posts/src/trading-vs-investing-comparison.png",
     "_posts/src/the_forgeting_curve.png",
     "_posts/src/template",
     "_posts/src/9 Pricing Strategies you should know.pdf",
     "_posts/src",
-    "_site/2023/11/17",
-    "_posts/2023-04-09-Đọc Nhanh, Hiểu Sâu, Nhớ Lâu Trọn Đời.md",
-    "_posts/2016-01-01-another-test-markdown.md",
-    "_posts/Xuất bản nội dung Markdown lên blog - digital garden.md",
-    "_posts/2023-04-10-Digital Garden, Evergreen note và Zettelkasten.md",
-    "_posts/2017-06-10-quick-mardown-example.md"
+    "_site/2023/11/17"
   ]
 }

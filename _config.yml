@@ -24,9 +24,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: This is a blog about Cyber Security
+title: Tam's Blog
 email: thantam311@gmail.com
-author: tritchimp
+author: Than Trung Tam
 
 # Copyright setting
 # You can use any html code, currently below placeholders are available:
@@ -43,12 +43,12 @@ author: tritchimp
 copyright: "2025-{currentYear} {author}"
 
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  # Write an awesome description for your new site here. You can edit this
+  # line in _config.yml. It will appear in your document head meta (for
+  # Google search results) and in your feed.xml site description.
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://learn-anything.online" # the base hostname & protocol for your site, e.g. https://thinh-vu.github.io
+url: "https://tritchimp.github.io" # the base hostname & protocol for your site, e.g. https://thinh-vu.github.io
 favicon: "" # the favicon for your site
 
 # Yat date format
@@ -73,7 +73,7 @@ google_analytics: G-T55MBNEVET
 sitemap: true
 
 # If you want to change site language, you can set lang option
-lang: "vi"  # default lang is en
+lang: "en"  # default lang is en
 
 # Translate languges
 # langs refer to https://cloud.google.com/translate/docs/languages
@@ -85,26 +85,26 @@ translate_langs:
   - lang: vi
     img: https://cdn.countryflags.com/thumbs/vietnam/flag-400.png
     text: Tiếng Việt
-#
-#   - lang: fr
-#     img: https://cdn.countryflags.com/thumbs/france/flag-400.png
-#     text: French
-#
-#   - lang: zh-CN
-#     img: https://cdn.countryflags.com/thumbs/china/flag-400.png
-#     text: Chinese(Simple)
-#
-#   - lang: ja
-#     img: https://cdn.countryflags.com/thumbs/japan/flag-400.png
-#     text: Japanese
-#
-#   - lang: ko
-#     img: https://cdn.countryflags.com/thumbs/south-korea/flag-400.png
-#     text: Korean
-#
-#   - lang: ru
-#     img: https://cdn.countryflags.com/thumbs/russia/flag-400.png
-#     text: Russian
+
+  - lang: fr
+    img: https://cdn.countryflags.com/thumbs/france/flag-400.png
+    text: French
+
+  - lang: zh-CN
+    img: https://cdn.countryflags.com/thumbs/china/flag-400.png
+    text: Chinese(Simple)
+
+  - lang: ja
+    img: https://cdn.countryflags.com/thumbs/japan/flag-400.png
+    text: Japanese
+
+  - lang: ko
+    img: https://cdn.countryflags.com/thumbs/south-korea/flag-400.png
+    text: Korean
+
+  - lang: ru
+    img: https://cdn.countryflags.com/thumbs/russia/flag-400.png
+    text: Russian
 
 # You can choose a theme color
 # Default theme colors as below:
@@ -162,8 +162,8 @@ header_pages:
   - categories.html
   - tags.html
   - archives.html
-  - title: Blog
-    url: https://learn-anything.vn/
+  # - title: Blog
+  #   url: https://miracles.id.vn/
   - about.html
 
 # Page default value
