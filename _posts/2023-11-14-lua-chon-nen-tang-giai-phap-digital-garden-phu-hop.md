@@ -1,9 +1,17 @@
 ---
-title: "Lựa chọn nền tảng tạo Digital Garden cho kho tri thức cá nhân"
+title: Lựa chọn nền tảng tạo Digital Garden cho kho tri thức cá nhân
 date: 14-11-2023
 layout: post
-category: jamstack
-tags: [jekyll, gatsby, digital garden, blog, docs, mermaid]
+category:
+  - jamstack
+tags:
+  - jekyll
+  - gatsby
+  - digital
+  - garden
+  - blog
+  - docs
+  - mermaid
 banner:
   image: https://images.unsplash.com/photo-1516414447565-b14be0adf13e?q=80&w=1973&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 top: 1
